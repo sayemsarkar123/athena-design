@@ -73,3 +73,7 @@
   font-weight: 400;
   font-family: 'Montserrat';
 }
+
+.features.hero h1 {
+  font-size: 36px;
+}
