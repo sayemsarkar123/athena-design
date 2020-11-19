@@ -156,9 +156,8 @@
     color: #ffffff;
 }
 
-.footer-title {
-    font-size: 35px;
-    line-height: 100px;
+.updates-title {
+    font-size: 33px;
     color: #0d052e;
     font-weight: 400;
     font-family: "Yeseva One";
@@ -219,8 +218,18 @@
 
 .footer-item ul li {
     list-style-type: none;
-    line-height: 40px;
+}
+
+.footer-item ul li a {
+    text-decoration: none;
+    line-height: 30px;
+    font-size: 15px;
     color: #464646;
     font-weight: 500;
     font-family: "Montserrat";
+    cursor: pointer;
+}
+
+.footer-bottom {
+    margin-bottom: 50px;
 }
