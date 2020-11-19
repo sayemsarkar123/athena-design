@@ -1,9 +1,9 @@
 .updates-title {
-    font-size: 33px;
+  font-size: 33px;
 }
 
 .header-logo {
-    max-width: 100px;
+  max-width: 100px;
 }
 
 .header-btn {
@@ -12,7 +12,7 @@
   font-size: 16px;
   color: #ffffff;
   font-weight: 500;
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   padding: 0.6rem 1.5rem;
 }
 
@@ -20,7 +20,7 @@
   font-size: 15px;
   color: #263f44;
   font-weight: 400;
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
 }
 
 .hero h1 {
@@ -28,7 +28,7 @@
   line-height: 72px;
   color: #0d052e;
   font-weight: 400;
-  font-family: "Yeseva One";
+  font-family: 'Yeseva One';
 }
 
 .hero p {
@@ -36,7 +36,7 @@
   line-height: 30px;
   color: #8d8d8d;
   font-weight: 400;
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
 }
 
 .hero button {
@@ -46,68 +46,68 @@
   font-size: 16px;
   color: #ffffff;
   font-weight: 500;
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
 }
 
 .about h2 {
   font-size: 48px;
   color: #0d052e;
   font-weight: 400;
-  font-family: "Yeseva One";
+  font-family: 'Yeseva One';
 }
 
 .hero h1 {
-    font-size: 72px;
-    line-height: 72px;
-    color: #0d052e;
-    font-weight: 400;
-    font-family: 'Yeseva One';
+  font-size: 72px;
+  line-height: 72px;
+  color: #0d052e;
+  font-weight: 400;
+  font-family: 'Yeseva One';
 }
 
 .hero p {
-    font-size: 15px;
-    line-height: 30px;
-    color: #8d8d8d;
-    font-weight: 400;
-    font-family: 'Montserrat';
+  font-size: 15px;
+  line-height: 30px;
+  color: #8d8d8d;
+  font-weight: 400;
+  font-family: 'Montserrat';
 }
 
 .hero button {
-    border-radius: 30px 0;
-    background-image: linear-gradient(128deg, #2af598 0%, #009efd 100%);
-    padding: 0.6rem 1.5rem;
-    font-size: 16px;
-    color: #ffffff;
-    font-weight: 500;
-    font-family: 'Montserrat';
+  border-radius: 30px 0;
+  background-image: linear-gradient(128deg, #2af598 0%, #009efd 100%);
+  padding: 0.6rem 1.5rem;
+  font-size: 16px;
+  color: #ffffff;
+  font-weight: 500;
+  font-family: 'Montserrat';
 }
 
 .about h2 {
-    font-size: 48px;
-    color: #0d052e;
-    font-weight: 400;
-    font-family: 'Yeseva One';
+  font-size: 48px;
+  color: #0d052e;
+  font-weight: 400;
+  font-family: 'Yeseva One';
 }
 
 .about-card {
-    transition: all 0.3s ease;
+  transition: all 0.3s ease;
 }
 
 .about-card:hover {
-    border-radius: 100px 0;
-    filter: drop-shadow(0px 30px 28.5px rgba(32, 168, 111, 0.1));
-    background-color: #ffffff;
+  border-radius: 100px 0;
+  filter: drop-shadow(0px 30px 28.5px rgba(32, 168, 111, 0.1));
+  background-color: #ffffff;
 }
 
 .about img {
-    max-width: 90px;
+  max-width: 90px;
 }
 
 .about h5 {
   font-size: 18px;
   color: #34285c;
   font-weight: 600;
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
 }
 
 .about p {
@@ -115,18 +115,18 @@
   line-height: 28px;
   color: #8d8d8d;
   font-weight: 400;
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
 }
 
 .features.hero h1 {
-    font-size: 36px;
+  font-size: 36px;
 }
 
 .achievements h3 {
   font-size: 36px;
   color: #0d052e;
   font-weight: 400;
-  font-family: "Yeseva One";
+  font-family: 'Yeseva One';
 }
 
 .achievements p {
@@ -134,34 +134,36 @@
   line-height: 30px;
   color: #707070;
   font-weight: 400;
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
 }
 
 .achievements-card {
-    filter: drop-shadow(0px 6px 34.5px rgba(61, 232, 153, 0.15));
-    background-color: #ffffff;
+  filter: drop-shadow(0px 6px 34.5px rgba(61, 232, 153, 0.15));
+  background-color: #ffffff;
 }
 
 .achievements-card-2,
 .achievements-card-3 {
-    border-radius: 50px 0;
+  border-radius: 50px 0;
 }
 
 .achievements-card-bg,
 .achievements-card-4 {
-    border-radius: 0 50px;
+  border-radius: 0 50px;
 }
 
 .achievements-card-bg {
-    background-image: linear-gradient(237deg,
-            #2af598 0%,
-            #009efd 100%,
-            #000000 100%);
+  background-image: linear-gradient(
+    237deg,
+    #2af598 0%,
+    #009efd 100%,
+    #000000 100%
+  );
 }
 
 .achievements-card img,
 .achievements-card-bg img {
-    max-width: 50px;
+  max-width: 50px;
 }
 
 .achievements-card h3,
@@ -169,24 +171,24 @@
   font-size: 24px;
   letter-spacing: 1px;
   font-weight: 700;
-  font-family: "Poppins";
+  font-family: 'Poppins';
 }
 
 .achievements-card p,
 .achievements-card-bg p {
   font-size: 16px;
   font-weight: 300;
-  font-family: "Poppins";
+  font-family: 'Poppins';
 }
 
 .achievements-card h3,
 .achievements-card p {
-    color: #707070;
+  color: #707070;
 }
 
 .achievements-card-bg h3,
 .achievements-card-bg p {
-    color: #ffffff;
+  color: #ffffff;
 }
 
 .footer-title {
@@ -194,7 +196,7 @@
   line-height: 100px;
   color: #0d052e;
   font-weight: 400;
-  font-family: "Yeseva One";
+  font-family: 'Yeseva One';
   text-align: center;
 }
 
@@ -202,7 +204,7 @@
   font-size: 20px;
   color: #353535;
   font-weight: 400;
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   text-align: center;
 }
 
@@ -247,70 +249,70 @@
   line-height: 40px;
   color: #464646;
   font-weight: 500;
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
 }
 
 .footer-item ul li a {
-    text-decoration: none;
-    line-height: 30px;
-    font-size: 15px;
-    color: #464646;
-    font-weight: 500;
-    font-family: "Montserrat";
-    cursor: pointer;
+  text-decoration: none;
+  line-height: 30px;
+  font-size: 15px;
+  color: #464646;
+  font-weight: 500;
+  font-family: 'Montserrat';
+  cursor: pointer;
 }
 
 .footer-bottom {
-    margin-bottom: 50px;
+  margin-bottom: 50px;
 }
 
 .updates-title {
-    font-size: 33px;
-    color: #0d052e;
-    font-weight: 400;
-    font-family: "Yeseva One";
-    text-align: center;
-    margin-bottom: 15px;
+  font-size: 33px;
+  color: #0d052e;
+  font-weight: 400;
+  font-family: 'Yeseva One';
+  text-align: center;
+  margin-bottom: 15px;
 }
 
 .updates-para {
-    font-size: 18px;
-    color: #353535;
-    font-weight: 400;
-    font-family: "Montserrat";
-    text-align: center;
-    margin-bottom: 45px;
+  font-size: 18px;
+  color: #353535;
+  font-weight: 400;
+  font-family: 'Montserrat';
+  text-align: center;
+  margin-bottom: 45px;
 }
 
 .updates-input {
-    filter: drop-shadow(0 0 28.5px rgba(0, 0, 0, 0.1)) !important;
-    background-color: #ffffff !important;
-    padding: 28px !important;
-    outline: none;
-    border: none;
-    position: relative;
+  filter: drop-shadow(0 0 28.5px rgba(0, 0, 0, 0.1)) !important;
+  background-color: #ffffff !important;
+  padding: 28px !important;
+  outline: none;
+  border: none;
+  position: relative;
 }
 
 .updates-btn {
-    width: 178px;
-    height: 46px;
-    border-radius: 5px;
-    background-image: linear-gradient(127deg, #2af598 0%, #009efd 100%);
-    color: white;
-    outline: none;
-    border: none;
-    position: absolute;
-    right: 21px;
-    margin-top: -51px;
+  width: 178px;
+  height: 46px;
+  border-radius: 5px;
+  background-image: linear-gradient(127deg, #2af598 0%, #009efd 100%);
+  color: white;
+  outline: none;
+  border: none;
+  position: absolute;
+  right: 21px;
+  margin-top: -51px;
 }
 
 .updates-btn:focus {
-    outline: none;
-    border: 2px solid rgb(21, 140, 249);
+  outline: none;
+  border: 2px solid rgb(21, 140, 249);
 }
 
 .offers-container {
-    margin-bottom: 130px;
+  margin-bottom: 130px;
 }
 
 .footer-logo {
@@ -324,72 +326,80 @@
   margin-left: 10px;
 }
 
-/* Pricing Area */
-.pricing-title {
-  font-size: 35px;
-  line-height: 100px;
+.social-link li a {
+  display: inline-block;
+  width: 29px;
+  height: 29px;
+  line-height: 29px;
+  text-align: center;
+  background-color: #353535;
+  border-radius: 50%;
+  color: #fff;
+}
+
+.social-link li:not(:last-child) {
+  margin-right: 15px;
+}
+
+.pricing h1 {
+  font-size: 36px;
   color: #0d052e;
   font-weight: 400;
-  font-family: "Yeseva One";
-  text-align: center;
+  font-family: 'Yeseva One';
 }
 
-.pricing-card {
-  border: none;
-  filter: drop-shadow(0px 30px 28.5px rgba(32, 168, 111, 0.1));
-}
-
-.pricing-card:hover {
-  filter: drop-shadow(0px 30px 28.5px rgba(32, 168, 111, 0.1));
+.price-card {
+  border-radius: 5px;
+  filter: drop-shadow(0 0 11.5px rgba(0, 0, 0, 0.1));
   background-color: #ffffff;
-  border: 4px solid #3cedce;
+  transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 
-.pricing-card:hover .pricing-btn{
-  visibility: visible;
-}
-
-.price {
-  font-size: 67px;
+.price-card h1 {
+  font-size: 48px;
   color: #494242;
   font-weight: 600;
-  font-family: "Poppins";
-  text-align: right;
+  font-family: 'Poppins';
 }
-
-.price:hover {
-  font-size: 67px;
-  color: #0f0f0f;
-  font-weight: 600;
-  font-family: "Poppins";
-  text-align: right;
-}
-
-.price-category {
-  font-size: 20px;
+.price-card h6 {
+  font-size: 16px;
   color: #353535;
-  font-weight: 300;
-  font-family: "Poppins";
-  text-align: right;
+  font-weight: 400;
+  font-family: 'Poppins';
+}
+.price-card .w-75 {
+  border: 1px solid #4fd1cb;
+  transform: scaleX(0);
+  transition: all 0.3s ease;
 }
 
-.price-info {
-  font-size: 24px;
-  line-height: 60px;
+.price-card:hover .w-75 {
+  border: 1px solid #4fd1cb;
+  transform: scaleX(1);
+}
+
+.price-card ul li a {
+  font-size: 16px;
   color: #353535;
   font-weight: 500;
-  font-family: "Montserrat";
-  text-align: center;
+  font-family: 'Montserrat';
+  text-decoration: none;
 }
-
-.pricing-btn {
+.price-card ul li:not(:last-child) {
+  margin-bottom: 15px;
+}
+.price-card button {
+  visibility: hidden;
+  color: #fff;
+  padding: 0.6rem 1.6rem;
   border-radius: 30px 0;
   background-image: linear-gradient(128deg, #2af598 0%, #009efd 100%);
-  font-size: 16px;
-  color: #ffffff;
-  font-weight: 500;
-  font-family: "Montserrat";
-  padding: 0.6rem 1.5rem;
-  visibility:hidden;
-  list-style-type: none;
+  transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.price-card:hover button {
+  visibility: visible;
+}
+.price-card:hover {
+  border: 3px solid #3cedce;
 }
