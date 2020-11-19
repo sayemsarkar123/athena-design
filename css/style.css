@@ -145,3 +145,75 @@
 .achievements-card-bg p {
   color: #ffffff;
 }
+
+.footer-title {
+    font-size: 35px;
+    line-height: 100px;
+    color: #0d052e;
+    font-weight: 400;
+    font-family: "Yeseva One";
+    text-align: center;
+}
+
+.footer-para {
+    font-size: 20px;
+    color: #353535;
+    font-weight: 400;
+    font-family: "Montserrat";
+    text-align: center;
+}
+
+.footer-input {
+    border-radius: 5px;
+    filter: drop-shadow(0 0 28.5px rgba(0, 0, 0, 0.1));
+    background-color: #ffffff;
+    padding: 16px;
+    width: 650px;
+    outline: none;
+    border: none;
+}
+
+.footer-btn {
+    width: 178px;
+    height: 46px;
+    border-radius: 5px;
+    background-image: linear-gradient(127deg, #2af598 0%, #009efd 100%);
+    color: white;
+    outline: none;
+    border: none;
+    position: absolute;
+    right: 270px;
+    margin-top: 5px;
+}
+
+.footer-btn:focus {
+    outline: none;
+    border: 2px solid rgb(21, 140, 249);
+}
+
+.footer-form-control {
+    text-align: center;
+}
+
+.footer-bottom {
+    margin-top: 120px;
+}
+
+.footer-logo {
+    width: 130px;
+    margin-bottom: 25px;
+}
+
+.social-icon {
+    width: 29px;
+    width: 20px;
+    margin-left: 10px;
+}
+
+.footer-item ul li {
+    list-style-type: none;
+    line-height: 40px;
+    color: #464646;
+    font-weight: 500;
+    font-family: "Montserrat";
+}
