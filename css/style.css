@@ -1,31 +1,31 @@
-.footer-title {
-    font-size: 35px;
-    line-height: 100px;
+.updates-title {
+    font-size: 33px;
     color: #0d052e;
     font-weight: 400;
     font-family: "Yeseva One";
     text-align: center;
+    margin-bottom: 15px;
 }
 
-.footer-para {
-    font-size: 20px;
+.updates-para {
+    font-size: 18px;
     color: #353535;
     font-weight: 400;
     font-family: "Montserrat";
     text-align: center;
+    margin-bottom: 45px;
 }
 
-.footer-input {
-    border-radius: 5px;
-    filter: drop-shadow(0 0 28.5px rgba(0, 0, 0, 0.1));
-    background-color: #ffffff;
-    padding: 16px;
-    width: 650px;
+.updates-input {
+    filter: drop-shadow(0 0 28.5px rgba(0, 0, 0, 0.1)) !important;
+    background-color: #ffffff !important;
+    padding: 28px !important;
     outline: none;
     border: none;
+    position: relative;
 }
 
-.footer-btn {
+.updates-btn {
     width: 178px;
     height: 46px;
     border-radius: 5px;
@@ -34,21 +34,17 @@
     outline: none;
     border: none;
     position: absolute;
-    right: 270px;
-    margin-top: 5px;
+    right: 21px;
+    margin-top: -51px;
 }
 
-.footer-btn:focus {
+.updates-btn:focus {
     outline: none;
     border: 2px solid rgb(21, 140, 249);
 }
 
-.footer-form-control {
-    text-align: center;
-}
-
-.footer-bottom {
-    margin-top: 120px;
+.offers-container {
+    margin-bottom: 130px;
 }
 
 .footer-logo {
